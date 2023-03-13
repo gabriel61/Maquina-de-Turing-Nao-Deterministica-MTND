@@ -1,7 +1,7 @@
 # Maquina-de-Turing-Nao-Deterministica-MTND
 Primeira atividade prática da disciplina Teoria da Computação
 
->> Relatório + código no arquivo APND.ipynb
+>> Relatório + código no arquivo MTND.ipynb
 
 # Desafio
 
