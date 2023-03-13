@@ -85,8 +85,7 @@ tamanho da palavra (relembre os conceitos vistos em métodos estatísticos).
 
 É imprescindível a análise com base em regressão linear. Sugiro a leitura da seção 1.4 deste livro:
 
-https://www.dropbox.com/s/1rjvzl8xi13da8u/Robert%20Sedgewick%2C%20Kevin%20Wayne-
-Algorithms-Addison-Wesley%20Professional%20%282011%29.pdf?dl=0
+https://www.dropbox.com/s/1rjvzl8xi13da8u/Robert%20Sedgewick%2C%20Kevin%20Wayne-Algorithms-Addison-Wesley%20Professional%20%282011%29.pdf?dl=0
 
 O relatório deve ser apresentado via Jupyter no Github em conjunto com o código.
 
